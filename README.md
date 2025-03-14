@@ -6,3 +6,6 @@ Usage:
 nix flake init -t "github:nivox/flakes#<module>"
 ```
 
+Sources:
+- https://github.com/NixOS/templates
+- https://github.com/the-nix-way/dev-templates/tree/main
