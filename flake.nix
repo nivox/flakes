@@ -9,6 +9,6 @@
         description = "Rust dev template";
       };
 
-    }
-  }
+    };
+  };
 }
