@@ -9,7 +9,7 @@
         description = "Rust dev template";
       };
 
-      scale = {
+      scala = {
         path = ./scala;
         description = "Scala dev template";
       };
