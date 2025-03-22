@@ -32,6 +32,11 @@
         description = "Scala dev template";
       };
 
+      typescript = {
+        path = ./typescript;
+        description = "Typescript dev template";
+      };
+
     };
   };
 }
